@@ -1,2 +1,2 @@
-dnt write code
-write art
+dnt write code;
+write art.
